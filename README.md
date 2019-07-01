@@ -25,7 +25,7 @@
   - `use project`
   - `create table user(id text, pwd text);`
   - `insert into user(id, pwd) values ('rest', '1234');`
-  - 'insert into user(id, pwd) values ('test', '1234);`
+  - `insert into user(id, pwd) values ('test', '1234);`
 
 - 실행 순서
   - LoginServer 폴더 `nope app`
